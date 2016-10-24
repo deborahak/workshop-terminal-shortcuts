@@ -1,5 +1,5 @@
 # workshop-terminal-shortcuts
-
+```
 Terminal
 using Tab key for auto-complete
 cd ..
@@ -59,9 +59,4 @@ vim
 
 learning more:
 man ls
-
-—OS—
-Screenshot
-Preview
-Imgur
-Franz
+```
